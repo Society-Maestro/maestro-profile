@@ -1,0 +1,5 @@
+name: maestro
+version: 1.0.0
+description: SocietyOS Maestro — sovereign AI assistant ecosystem tools (membership info, streaming, wallet, FreeCast, business tier)
+provides_tools:
+  - societyos_info
